@@ -1,0 +1,332 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:rgb(7, 7, 7);
+  color:#fff;
+}
+
+nav{
+  border-bottom:3px solid #ccc;
+  text-decoration:none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+nav {
+  text-decoration: none;
+}
+/* NAVBAR */
+
+.linkagem{
+
+  color:orange;
+  transition: .5s;
+  text-decoration: none;
+  padding: .75em 1.5em;
+  margin-bottom: 1.5em;
+  text-decoration: none;
+}
+
+
+
+.linkagem:a{
+  text-decoration: none;
+  
+}
+
+.linkagem:hover{
+  color:#fff;
+  text-decoration: none;
+  background:orange;
+  border-radius:1em;
+}
+
+/* HOME */
+.home{
+  width: 100%;
+  height: auto;
+  padding: 1.5em;
+
+
+}
+
+.home h1{
+  color:#999;
+}
+
+.home h3{
+  color:Orange;
+}
+
+.home .avatar{
+  width: 250px;
+  height:250px;
+  border-radius:50%;
+  background: url('../public/image/eu.png') no-repeat center ;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border:2px solid #ccc;
+    float:left;
+    margin:1.5em;
+  
+}
+.home .about{
+  width: 100%;
+  gap:.75em;
+  padding:1.5em;
+  ;
+}
+
+.home .buttonGit {
+  padding: 1em 2em;
+  border-radius:1em;
+  border:2px solid rgb(18, 2, 107);
+  color:#999;
+  background: transparent;
+  margin: 1em;
+  cursor:pointer;
+  transition:.5s
+}
+
+
+.home .buttonGit:hover{
+  background:rgb(18, 2, 107);
+  color:#fff;
+}
+
+/* FOOTER */
+
+.footer{
+  width: 100%;
+  padding: 2em;
+  text-align: center;
+  background:orange;
+  color:#999;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.footer .org{
+  color:#000;
+}
+
+.icons{
+  display:flex;
+  justify-content: center;
+  gap: 1em;
+  font-size: 2em;
+  color:rgb(8, 8, 8);
+}
+
+/* SERVIÇOS */
+
+.servicos{
+  width: 100%;
+  height: auto;
+  padding: 1.5em;
+}
+
+.servicos .grade{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.servicos .grade .box{
+  width: calc(45%);
+  padding: 1em;
+  margin: 1.5em;
+  border-radius: .75em;
+  border:1px solid #fff;
+}
+
+.servicos .grade .box button{
+  padding: 1em 2em;
+  border-radius: .5em;
+  color:orange;
+  border:2px solid orange;
+  transition: .5s;
+  background: transparent;
+  cursor:pointer;
+}
+
+.servicos .grade .box button:hover{
+  background: orange;
+  color:white;
+
+}
+
+/* PORTFOLIO */
+
+.portfolio{
+  width: 100%;
+  height: auto;
+  padding: 1.5em;
+}
+
+.portfolio .grade{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.portfolio .grade .box{
+  width: calc(45%);
+  padding: 1em;
+  margin: 1.5em;
+  border-radius: .75em;
+  border:1px solid #fff;
+}
+
+.portfolio .grade .box button{
+  padding: 1em 2em;
+  border-radius: .5em;
+  color:orange;
+  border:2px solid orange;
+  transition: .5s;
+  background: transparent;
+  cursor:pointer;
+}
+
+.portfolio .grade .box button:hover{
+  background: orange;
+  color:white;
+
+}
+
+/* CERTIFICADOS */
+
+.certificados{
+  width: 100%;
+  height: auto;
+  padding: 1.5em;
+}
+
+.certificados .grade{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.certificados .grade .box{
+  width: calc(45%);
+  padding: 1em;
+  margin: 1.5em;
+  border-radius: .75em;
+  border:1px solid #fff;
+}
+
+.certificados .grade .box button{
+  padding: 1em 2em;
+  border-radius: .5em;
+  color:orange;
+  border:2px solid orange;
+  transition: .5s;
+  background: transparent;
+  cursor:pointer;
+}
+
+.certificados .grade .box button:hover{
+  background: orange;
+  color:white;
+
+}
+
+/* helpers */
+
+.laranja{
+  color:orange;
+}
+
+/* CONTATO */
+
+.contato{
+  width: 100%;
+  height: 100vh;
+  
+  padding: 2em;
+}
+
+.contato h1{
+  border-bottom: 1px solid #fff;
+  padding: .5em;
+}
+
+@media (max-width:796px){
+
+  .certificados .grade .box{
+    width: calc(99%);
+    padding: 1em;
+    margin: 1.5em;
+    border-radius: .75em;
+    border:2px solid #fff;
+  }
+
+  .servicos .grade .box{
+    width: calc(99%);
+    padding: 1em;
+    margin: 1.5em;
+    border-radius: .75em;
+    border:2px solid #fff;
+  }
+
+  .home{
+    width: 100%;
+    height: auto;
+    padding: 1.5em;
+    display:block;
+  }
+  .home .avatar{
+    width: 125px;
+    height: 125px;
+    border-radius:50%;
+    background: url('../public/image/eu.png') no-repeat center ;
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      border:2px solid #ccc;
+      float:left;
+      margin:1em;
+    
+  }
+  .home .about{
+    width: 100%;
+    gap:.75em;
+    padding:1.5em;
+    ;
+  }
+
+  .linkagem{
+  transition: .5s;
+  text-decoration: none;
+  margin: 1.5em;
+  text-decoration: none;
+}
+
+
+
+.linkagem:a:hover{
+  text-decoration: none;
+  
+}
+
+.linkagem:hover{
+  color:#fff;
+  text-decoration: none;
+  background:orange;
+  border-radius:1em;
+}
+
+.nav-item{
+  margin-top:.5em;
+  margin-bottom: .5em;
+}
+
+}
