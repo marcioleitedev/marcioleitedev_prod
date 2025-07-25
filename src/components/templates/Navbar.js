@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark">
       <Link to="/" className="navbar-brand">
-        <img src="/image/logotipo.png" width="100" alt="Logotipo" />
+       <p class="text-warning">Marcio Leite Dev</p> 
       </Link>
 
       <button

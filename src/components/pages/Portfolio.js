@@ -20,6 +20,7 @@ function Portfolio() {
           <p><b>Modalidade:</b> híbrido</p>
           <p>Programador Full Stack</p>
           <p>Atuando com demandas internas do banco utilizando tecnologias modernas.</p>
+          <p>API REST , Microserviços , Autenticação Keycloak </p>
           <p><span className="laranja">TECNOLOGIA UTILIZADA</span></p>
           <p>PHP, Laravel, Node.js, Python, Vue.js, MySQL, MariaDB, Apache, Nginx, Docker, DevOps</p>
           <button disabled>Projetos Internos</button>

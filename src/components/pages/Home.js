@@ -18,8 +18,9 @@ function Home() {
 
       <div className="about" data-aos="fade-left">
         <h1>Marcio Leite Dev</h1>
-        <h3>Desenvolvedor FullStack</h3>
+        <h3>Desenvolvedor Full Stack</h3>
         <p>Atuando no mercado de desenvolvimento de aplicações Web desde 2003...</p>
+        <p>PHP , Javascript , Node , Mysql , Python , Devops</p>
         {/* ... (restante do seu texto) */}
         <a href='https://github.com/MarcioLeiteDev' target='_blank' rel="noopener noreferrer">
           <button className='buttonGit' data-aos="fade-down"> GitHub </button>
