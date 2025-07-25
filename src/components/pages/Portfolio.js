@@ -92,7 +92,7 @@ function Portfolio() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button>Projetos Internos</button>
+            <button>Link do Projeto</button>
           </a>
         </div>
 
