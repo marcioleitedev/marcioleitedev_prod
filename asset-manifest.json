@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marcioleitedev/marcioleitedev_prod/static/css/main.6ff18a97.css",
+    "main.js": "/marcioleitedev/marcioleitedev_prod/static/js/main.2463d825.js",
+    "static/js/787.c1112931.chunk.js": "/marcioleitedev/marcioleitedev_prod/static/js/787.c1112931.chunk.js",
+    "static/media/eu.png": "/marcioleitedev/marcioleitedev_prod/static/media/eu.83f1691b73f7bd52e8b4.png",
+    "index.html": "/marcioleitedev/marcioleitedev_prod/index.html",
+    "main.6ff18a97.css.map": "/marcioleitedev/marcioleitedev_prod/static/css/main.6ff18a97.css.map",
+    "main.2463d825.js.map": "/marcioleitedev/marcioleitedev_prod/static/js/main.2463d825.js.map",
+    "787.c1112931.chunk.js.map": "/marcioleitedev/marcioleitedev_prod/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff18a97.css",
+    "static/js/main.2463d825.js"
+  ]
+}
