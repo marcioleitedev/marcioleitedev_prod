@@ -18,10 +18,10 @@ function Contato(){
     return(
         <section className="contato" data-aos="fade-up">
         <h1>Contato</h1>
-        <p><span className="laranja"><FaWhatsapp/>WhatsApp :</span> 55 + (11)94858-3294</p>
-        <p><span className="laranja"><FaMailBulk />E-mail:</span> contato@marcioleitedev.com.br</p>
+        <p><span className="laranja"><FaWhatsapp/>WhatsApp :</span> 55 + (11)95156-2814</p>
+        <p><span className="laranja"><FaMailBulk />E-mail:</span> marciobleite1977@gmail.com</p>
         <p><span className="laranja"><FaGithub/>GitHub:</span> https://github.com/MarcioLeiteDev/</p>
-        <p><span className="laranja"><FaLinkedin/> LinkedIn:</span> https://www.linkedin.com/in/marcio-leite-a231b550/</p>
+        <p><span className="laranja"><FaLinkedin/> LinkedIn:</span> https://www.linkedin.com/in/marcio-leite-dev/</p>
 
         </section>
     )

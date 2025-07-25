@@ -19,7 +19,7 @@ function Servicos() {
                         <li>Hospedagem e manutenção</li>
                     </ul>
                     <p>Comunique-se de forma eficiente com seus clientes e fornecedores, tenha um e-mail profissional, e mantenha presença online de sua empresa.</p>
-                    <a href="https://wa.me/5511948583294"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
+                    <a href="https://wa.me/5511951562814"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
                 </div>
 
                 <div className="box" data-aos="fade-up">
@@ -30,7 +30,7 @@ function Servicos() {
                        
                     </ul>
                     <p>Tem uma idéia para criar um aplicativo para o seu negócio, conheça minhas soluções.</p>
-                   <a href="https://wa.me/5511948583294"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
+                   <a href="https://wa.me/5511951562814"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
                 </div>
 
 
@@ -42,7 +42,7 @@ function Servicos() {
                        
                     </ul>
                     <p>Precisa de um sistema de gestão para seu negócio, tenho uma solução.</p>
-                    <a href="https://wa.me/5511948583294"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
+                    <a href="https://wa.me/5511951562814"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
                 </div>
 
                 
@@ -56,7 +56,7 @@ function Servicos() {
                        
                     </ul>
                     <p>Voce tem alguma rotina monotoma para executar, crie um robo que faz isso para você.</p>
-                    <a href="https://wa.me/5511948583294"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
+                    <a href="https://wa.me/5511951562814"> <button> <FaWhatsapp /> Orçamento WhatsApp</button></a>
                 </div>
 
 

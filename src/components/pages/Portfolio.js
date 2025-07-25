@@ -23,8 +23,9 @@ function Portfolio(){
             <p>Sistema PHP MVC OOP </p>
             <p>Area Administrativa com níveis de usuário</p>
             <p>Árvore geneológica em Javascript</p>
+            <p>Criação de Robo para trabalhos rotineiros (web scrapping)</p>
             <p><span className="laranja">TECNOLOGIA UTILIZADA</span> </p>
-            <p>Php , Javascript , Jquery , Mysql, MariaDB </p>
+            <p>Php , Javascript , Jquery , Mysql, MariaDB , Python , Devops </p>
             <a href="https://www.sensetranslate.com" target="blank"><button>Visitar Projeto</button></a>
         </div>
 
@@ -36,7 +37,7 @@ function Portfolio(){
             <p>CRM ( cadastro de clientes, fornecedores, controle de estoque, geração de contratos )</p>
             <p><span className="laranja">TECNOLOGIA UTILIZADA</span> </p>
             <p>Php , Javascript , Jquery , Mysql, MariaDB </p>
-            <a href="https://www.rastreadoresprotege.com.br/escritorio" target="blank"><button>Visitar Projeto</button></a>
+            <a href="#" target="blank"><button>Empresa Encerrada na Pandemia</button></a>
         </div>
 
         <div className="box" data-aos="fade-up">
@@ -51,13 +52,25 @@ function Portfolio(){
         </div>
 
                 <div className="box" data-aos="fade-up">
-            <h2>Digital Print - WordPress</h2>
+            <h2>Capital Consig</h2>
             
-            <p>Site institucional em WordPress </p>
+            <p>Programador Full Stack </p>
+            <p>Atuando com demandas internas do banco atuando com as principais tecnologias </p>
 
             <p><span className="laranja">TECNOLOGIA UTILIZADA</span> </p>
-            <p>Php , WordPress , Mysql, MariaDB </p>
-            <a href="https://www.digitalprintetiquetas.com.br" target="blank"><button>Visitar Projeto</button></a>
+            <p>Php , Laravel , Node.js , Python , Vue.js ,  Mysql, MariaDB , Apache , Nginx , Docker , Devops </p>
+            <a href="#" target="blank"><button>Projetos Internos </button></a>
+        </div>
+
+                <div className="box" data-aos="fade-up">
+            <h2>Dflix Control</h2>
+            
+            <p>Criação de Saas (sistema de assinatura) para gestão de auto-center</p>
+            <p>ERP para cadastro de clientes, controle de estoque , geração orçamento, geração ordem serviço ,fluxo de caixa, emissão de nota fiscal, sistema completo para gestão de auto centers.</p>
+
+            <p><span className="laranja">TECNOLOGIA UTILIZADA</span> </p>
+            <p>Php , Laravel , Mysql, Vue.js ,   Nginx , Docker , Devops </p>
+            <a href="https://dflixcontrol.com.br" target="blank"><button>Projetos Internos </button></a>
         </div>
 
        

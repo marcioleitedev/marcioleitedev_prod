@@ -106,14 +106,7 @@ function Certificados(){
         </div>
 
         
-        <div className="box" data-aos="fade-left">
-            <h2>Ensino Médio</h2>
-            <p><span className="laranja">Carga Horária:</span> -- Horas </p>
-            <p>ENsino Médio</p>
-            <p><span className="laranja">Inicio:</span> --/--/----</p>
-            <p><span className="laranja">Conclusão:</span> 24/12/2022</p>
-            <a href="diplomas/19857610846.pdf" target="blank"><button>Diploma</button></a>
-        </div>
+
        
     
 
