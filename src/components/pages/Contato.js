@@ -3,7 +3,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaMailBulk } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 
-import React, { Component, useEffect } from 'react';
+import React, { useEffect } from 'react';
 
 import aos from 'aos'
 
