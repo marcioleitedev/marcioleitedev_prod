@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/marcioleitedev_prod/static/css/main.224d5e1c.css",
-    "main.js": "/marcioleitedev_prod/static/js/main.2d55d3fa.js",
-    "static/js/787.c1112931.chunk.js": "/marcioleitedev_prod/static/js/787.c1112931.chunk.js",
-    "static/media/eu.png": "/marcioleitedev_prod/static/media/eu.83f1691b73f7bd52e8b4.png",
-    "index.html": "/marcioleitedev_prod/index.html",
-    "main.224d5e1c.css.map": "/marcioleitedev_prod/static/css/main.224d5e1c.css.map",
-    "main.2d55d3fa.js.map": "/marcioleitedev_prod/static/js/main.2d55d3fa.js.map",
-    "787.c1112931.chunk.js.map": "/marcioleitedev_prod/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/marcioleitedev/marcioleitedev_prod/static/css/main.78b427f5.css",
+    "main.js": "/marcioleitedev/marcioleitedev_prod/static/js/main.5ae44a96.js",
+    "static/js/787.0f8d78ff.chunk.js": "/marcioleitedev/marcioleitedev_prod/static/js/787.0f8d78ff.chunk.js",
+    "static/media/eu.png": "/marcioleitedev/marcioleitedev_prod/static/media/eu.83f1691b73f7bd52e8b4.png",
+    "index.html": "/marcioleitedev/marcioleitedev_prod/index.html",
+    "main.78b427f5.css.map": "/marcioleitedev/marcioleitedev_prod/static/css/main.78b427f5.css.map",
+    "main.5ae44a96.js.map": "/marcioleitedev/marcioleitedev_prod/static/js/main.5ae44a96.js.map",
+    "787.0f8d78ff.chunk.js.map": "/marcioleitedev/marcioleitedev_prod/static/js/787.0f8d78ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.224d5e1c.css",
-    "static/js/main.2d55d3fa.js"
+    "static/css/main.78b427f5.css",
+    "static/js/main.5ae44a96.js"
   ]
 }
